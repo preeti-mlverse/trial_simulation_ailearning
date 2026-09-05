@@ -13,7 +13,7 @@ Four illustrated characters host the game and explain themselves in their own wo
 
 ## How to play
 
-Open `nesting-boxes.html` in any modern browser. There is no build step, no server and no network dependency — the whole game, including the character art, is embedded in that single file.
+Open `index.html` in any modern browser, or play the hosted version linked at the top of this repo. There is no build step, no server and no network dependency — the whole game, including the character art, is embedded in that single file.
 
 ## The journey
 
